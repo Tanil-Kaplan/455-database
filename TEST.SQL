@@ -1,0 +1,3 @@
+CREATE TABLE Test(
+
+test_ıd INT PRIMARY KEY);
